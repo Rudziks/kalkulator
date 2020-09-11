@@ -10,4 +10,12 @@ body {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    min-width: 100px;
+}
+.DivWithButton {
+    margin: 5px;
+}
+.btn-disabled
+{
+    background-color: darkgray;
 }
