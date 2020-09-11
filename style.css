@@ -18,7 +18,7 @@ body {
 }
 .btn-disabled
 {
-    background-color: darkgray;
+    background-color:rgb(153, 153, 153);
 }
 #showScore {
     background-color: lightgray ;
