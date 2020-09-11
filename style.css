@@ -20,3 +20,7 @@ body {
 {
     background-color: darkgray;
 }
+#inputShowScore {
+    border: none;
+    border-bottom: orangered solid 1px 
+}
