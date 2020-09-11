@@ -20,14 +20,16 @@ body {
 {
     background-color: darkgray;
 }
-#inputShowScore {
+#showScore {
+    background-color: lightgray ;
     border: none;
-    border-bottom: orangered solid 1px ;
+    border-bottom: rgb(80, 73, 73) solid 1px ;
 }
 .btn:hover {
     background-color: orangered;
 }
-#inputShowScore::after {
+#showScore:focus {
     border: none;
+    outline: none ;
     border-bottom: orangered solid 1px;
 }
