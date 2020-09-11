@@ -22,5 +22,12 @@ body {
 }
 #inputShowScore {
     border: none;
-    border-bottom: orangered solid 1px 
+    border-bottom: orangered solid 1px ;
+}
+.btn:hover {
+    background-color: orangered;
+}
+#inputShowScore::after {
+    border: none;
+    border-bottom: orangered solid 1px;
 }
